@@ -1,4 +1,4 @@
-# Web Scraping
+# Web Scraping- DATA 2365 
 
 In this repository is multiple web scraping projects I have done using 
 
